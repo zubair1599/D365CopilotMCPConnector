@@ -1,0 +1,6 @@
+@D365CopilotMCPConnector_HostAddress = https://localhost:7087
+
+GET {{D365CopilotMCPConnector_HostAddress}}/mcp
+Accept: text/event-stream
+
+###
