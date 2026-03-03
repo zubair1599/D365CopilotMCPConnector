@@ -200,4 +200,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*Built with ❤️ using [.NET MCP SDK](https://github.com/modelcontextprotocol/csharp-sdk) and the D365 Commerce APIs.*
+*Built with using [.NET MCP SDK](https://github.com/modelcontextprotocol/csharp-sdk) and the D365 Commerce APIs.*
